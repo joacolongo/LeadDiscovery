@@ -4,7 +4,7 @@ Code and report corresponding to the final project of the Computational Structur
 
 ## Abstract
 
-The aim of this project was to create a computational pipeline for the identification of targets for **Orexin type 2 receptor - OX2R**, which is a protein that regulates various physiological functions, including sleep-wake cycles, arousal, appetite, and stress responses. This targets are explored as drug candidates to treat insomnia.
+The aim of this project was to create a computational pipeline for the identification of hits for **Orexin type 2 receptor - OX2R**, which is a protein that regulates various physiological functions, including sleep-wake cycles, arousal, appetite, and stress responses. These hits are explored as drug candidates to treat insomnia.
 
 The lead discovery pipeline proposed in this work is divided in 5 modules: 
 
